@@ -17,10 +17,10 @@ def function (x):
     return x
 
 
-print(strictEvaluation(5, 5/0))
+#print(strictEvaluation(5, 5/0))
 #ZeroDivisionError: division by zero
 
 # input1 = input("input 1\n")
 # input2 = input("input 2\n")
 
-print(strictEvaluation(5, 5/0))
+#print(strictEvaluation(5, 5/0))
