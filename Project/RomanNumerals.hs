@@ -54,8 +54,8 @@ main = do
     print $ add "I" "IV"
     print $ sub "X" "I"
     print $ mult "V" "IV"
-    print $ add (convertToRomanNumeral 4) (convertToRomanNumeral 6)
-    print $ returnIntegerValue "XV"
-    print $ applyRule ("hi","hello") (strToTxt "hi hi")
-    print $ applyRuleSet [("a","b"),("c","d")] (strToTxt "abcd")
-    print $ cleanAndNormalize "IIII"
+    -- print $ add (convertToRomanNumeral 4) (convertToRomanNumeral 6)
+    -- print $ returnIntegerValue "XV"
+    -- print $ applyRule ("hi","hello") (strToTxt "hi hi")
+    -- print $ applyRuleSet [("a","b"),("c","d")] (strToTxt "abcd")
+    -- print $ cleanAndNormalize "IIII"

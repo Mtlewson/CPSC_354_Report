@@ -1,3 +1,4 @@
+//Java Examples
 import java.util.Scanner;
 
 class ReportJava {
@@ -38,18 +39,11 @@ class ReportJava {
 
   
   public static void main(String[] argv){
+    System.out.println(addTwoInts(1,2));
+    System.out.println(increment(1));
+    System.out.println(patternMatch(1));
     System.out.println(function(1));
-    // Scanner scnr = new Scanner(System.in);
 
-    // System.out.println("Enter input1");
-    // double input1 = scnr.nextDouble();
-
-    // System.out.println("Enter input2");
-    // double input2 = scnr.nextDouble();
-
-    // System.out.println(strictEvaluation(1,4/0));
-    // System.out.println(factorial(4));
-    //System.out.println(patternMatch(2));
   }
 }
 
