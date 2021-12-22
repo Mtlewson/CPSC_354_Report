@@ -8,8 +8,7 @@ Examples Folder includes the Examples from part 1 of the report
 ## How to run Project
 Project Folder includes the RomanNumerals.hs file
 * cd into the Project folder
-* ghci
-* :load RomanNumerals.hs 
+* Type ghci in the terminal followed by :load RomanNumerals.hs 
 * Example expressions that can be typed at the prompt can be seen in the main function
 * Type main for some example functions to be printed
 
